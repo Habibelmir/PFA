@@ -1,0 +1,219 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@media (max-width: 480px) {
+
+    .navbar-collapse {
+        /* max-width: fit-content;*/
+
+        display: flex;
+        flex-direction: column;
+        margin-top: -110px;
+    }
+
+    .navbar-nav {
+        width: 100%;
+        display: flex; /* Make links horizontal on collapse */
+        flex-direction: column; /* Stack links vertically on collapse */
+        align-items: end;
+        justify-content: end;
+        padding-bottom: 13px;
+        gap: 10px; /* Add some spacing between links */
+    }
+
+    .dropdown {
+        display: flex;
+        flex-direction: column;
+        /*text-align: left;*/
+        width: fit-content;
+        left: 85%;
+    }
+
+    .dropdown-menu {
+        margin-left: -100px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 700px) {
+
+    .navbar-collapse {
+        /*margin-left: 101px;*/
+        max-width: fit-content;
+        flex-direction: row; /* Stack links vertically */
+    }
+
+    .navbar-nav {
+        display: flex; /* Make links horizontal on collapse */
+        flex-direction: row; /* Stack links vertically on collapse */
+        justify-content: space-around;
+        gap: 10px; /* Add some spacing between links */
+        padding-right: 10px;
+    }
+
+    .dropdown-menu {
+        margin-left: -100px;
+    }
+}
+
+@media (min-width:700px) and (max-width:833px) {
+    .navbar-nav {
+        padding-right: 50px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 30px;
+    }
+
+    .navbar-collapse {
+        max-width: fit-content;
+    }
+
+    .dropdown-menu {
+        margin-left: -100px;
+    }
+    
+    .aside {
+        border: 1px solid #FFD700;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+
+    .content {
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+        color: #FFD700;
+        padding-right:20px;
+        width:50%;
+    }
+
+    .content > h2 {
+            padding-top:20px;
+            padding-bottom: 40px;
+            color: red;
+        }
+    .image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+    }
+    .image >img {
+        padding-left:10px;  
+        padding-right:10px;
+        width:100%;
+        height:30vh;
+    }
+}
+
+@media (min-width: 833px) and (max-width: 2560px) {
+    .navbar-nav {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        gap: 70px;
+        /*margin-right: 250px;*/
+    }
+
+    .navbar-collapse {
+        max-width: fit-content;
+    }
+
+    .dropdown-menu {
+        margin-left: -100px;
+    }
+    .aside {
+        border: 1px solid #FFD700;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: row;
+        gap: 100px;
+    }
+
+    .content {
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+        color: #FFD700;
+        padding-right: 20px;
+        width: 50%;
+    }
+
+    .content > h2 {
+            padding-bottom: 50px;
+            color: red;
+        }
+
+    .image {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 50%;
+    }
+    .image > img {
+            padding-left: 10px;
+            padding-right: 10px;
+            width: 100%;
+            height: 50vh;
+        }
+}
+
+.carousel-item > img, .carousel-inner {
+    width: 100%;
+    height: 85vh;
+}
+body {
+    background-color: #024502;
+    width:100%;
+}
+.nav-link {
+    color: #FFD700 !important;
+}
+.nav-link:hover {
+    color: #FFA500 !important;
+    border-bottom: 1px solid #FFA500;
+}
+nav {
+    width:100%!important;
+    font-size: 20px;
+    color: #FFD700 !important;
+}
+i, .dropdown-toggle {
+    color: #FFD700;
+}
+.dropdown-toggle:hover {
+    border: 1px solid #FFD700;
+    color: #FFA500;
+}
+.actions {
+    margin-top:5px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    color: #FFD700;
+}
+.actions > button {
+    color: #FFD500;
+    font-size: 20px;
+}
+.actions > button:hover {
+    border: 1px solid #FFD700;
+    color: #FFA500;
+}
+
+.carousel-image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.journal{
+    display:none;
+}
