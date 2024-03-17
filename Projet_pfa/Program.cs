@@ -1,4 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using Projet_pfa.Models;
+
 var builder = WebApplication.CreateBuilder(args);
+//EF
+builder.Services.AddDbContext<MonContext>(opt =>
+{
+    opt.UseSqlServer(@"Data source=.\SQLEXPRESS;
+            Encrypt=false; initial catalog=bd_pfa;
+             integrated security = true");
+});
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
