@@ -1,7 +1,14 @@
+using Microsoft.EntityFrameworkCore;
+using Projet_pfa.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<MyContext>(opt =>
+{
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+});
 
 var app = builder.Build();
 
