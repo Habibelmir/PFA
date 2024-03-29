@@ -1,11 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.WebUtilities;
+using Microsoft.EntityFrameworkCore;
+using Projet_pfa.Models;
 using Projet_pfa.ViewModel;
 
 namespace Projet_pfa.Controllers
 {
-    public class UtilisateurController : Controller
+    public class UtilisateursController : Controller
     {
+        MyContext db;
+        public UtilisateursController(MyContext db)
+        {
+            this.db = db;
+        }
         //Formulaire d'authentification
         [Route("/Authentification")]
         public IActionResult FormAuthentification()
@@ -26,8 +33,14 @@ namespace Projet_pfa.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult FormInscription(FormulaireInscription model)
+        public IActionResult FormInscription(Utilisateur u)
         {
+            if(ModelState.IsValid)
+            {
+                db.Utilisateurs.Add(u);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
             return View();
         }
     }
