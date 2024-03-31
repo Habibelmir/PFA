@@ -10686,19 +10686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\lenovo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\imane\\4éme année\\Semestre2\\PFA\\Projet\\PFA\\Projet_pfa\\Projet_pfa.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\Projet_pfa.csproj",
       "projectName": "Projet_pfa",
-      "projectPath": "C:\\Users\\HP\\Documents\\imane\\4éme année\\Semestre2\\PFA\\Projet\\PFA\\Projet_pfa\\Projet_pfa.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\imane\\4éme année\\Semestre2\\PFA\\Projet\\PFA\\Projet_pfa\\obj\\",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\Projet_pfa.csproj",
+      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10758,7 +10758,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

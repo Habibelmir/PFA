@@ -3,6 +3,11 @@ using System.Net.Sockets;
 
 namespace Projet_pfa.Models
 {
+    public enum Role
+    {
+        user,
+        moderateur,
+    }
     public class Utilisateur
     {
         public int id {  get; set; }
