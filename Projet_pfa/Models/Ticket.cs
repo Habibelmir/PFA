@@ -1,5 +1,8 @@
-﻿namespace Projet_pfa.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Projet_pfa.Models
 {
+    [Table("Ticket")]
     public class Ticket
     {
         public int Id { get; set; }

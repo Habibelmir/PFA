@@ -2,6 +2,7 @@
 
 namespace Projet_pfa.Models
 {
+    [Table("MatchEquipe")]
     public class MatchEquipe
     {
         public int Id { get; set; }
