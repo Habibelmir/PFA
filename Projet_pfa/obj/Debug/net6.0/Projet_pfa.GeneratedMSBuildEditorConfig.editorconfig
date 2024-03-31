@@ -9,41 +9,41 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Projet_pfa
 build_property.RootNamespace = Projet_pfa
-build_property.ProjectDir = C:\Users\HP\Documents\imane\4éme année\Semestre2\PFA\Projet\PFA\Projet_pfa\
+build_property.ProjectDir = C:\Users\lenovo\Desktop\PFA\Projet_pfa\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\Documents\imane\4éme année\Semestre2\PFA\Projet\PFA\Projet_pfa
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\Desktop\PFA\Projet_pfa
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Accueil/accueil.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Accueil/accueil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjdWVpbFxhY2N1ZWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Shared/Error.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Utilisateur/FormAuthentification.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Utilisateur/FormAuthentification.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcRm9ybUF1dGhlbnRpZmljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Utilisateur/FormInscription.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Utilisateur/FormInscription.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXRpbGlzYXRldXJcRm9ybUluc2NyaXB0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/_ViewImports.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/_ViewStart.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Documents/imane/4éme année/Semestre2/PFA/Projet/PFA/Projet_pfa/Views/Shared/_Layout.cshtml]
+[C:/Users/lenovo/Desktop/PFA/Projet_pfa/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-w5xu4wd4zo
