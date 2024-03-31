@@ -8,7 +8,7 @@ namespace Projet_pfa.Models
         public int Id { get; set; }
         public string Nom { get; set; }
         public string Drapeau {  get; set; }
-        public IList<MatchEquipe> MatchEquipes { get; set; }
-        public IList<Joueur> Joueurs { get; set; }
+        public IList<MatchEquipe>? MatchEquipes { get; set; }
+        public IList<Joueur>? Joueurs { get; set; }
     }
 }

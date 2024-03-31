@@ -1,0 +1,51 @@
+/* Ajoutez ces styles pour centrer le tableau */
+.filtre {
+    margin: 0 auto; /* Centre le tableau horizontalement */
+    width: 80%; /* Définissez la largeur du tableau selon vos besoins */
+    position: absolute;
+    z-index: 1;
+    opacity: .7;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top:20%;
+}
+
+/* Pour centrer les cellules du tableau */
+table {
+    margin-left: auto;
+    margin-right: auto;
+
+    position: absolute;
+    z-index: 2;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 70%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border-radius: 12px 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 12px rgba(32, 32, 32, .3);
+    background: #fafafa;
+    text-align: center;
+}
+
+th, td {
+    padding: 12px 15px;
+}
+
+th {
+    background: #374e22;
+    color: #FFD700;
+    text-transform: uppercase;
+}
+.img {
+    border: 1px solid #fff;
+    border-radius: 0 20px 0 20px;
+}
+a {
+    color: black;
+    text-decoration: none;
+}

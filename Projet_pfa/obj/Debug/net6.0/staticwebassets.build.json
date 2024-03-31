@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vAebCbECzdUmeOowU5kaARAqxwYyRHuVzFqq5Pxhc18=",
+  "Hash": "+xCmspnMM1CLlj3zR48gmKJfgItS4D4NNFK8C2g7fog=",
   "Source": "Projet_pfa",
   "BasePath": "_content/Projet_pfa",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Projet_pfa\\wwwroot",
       "Source": "Projet_pfa",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet_pfa.styles.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet_pfa.styles.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "Projet_pfa.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet_pfa.styles.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Projet_pfa.styles.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet_pfa.bundle.scp.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet_pfa.bundle.scp.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "Projet_pfa.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet_pfa.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Projet_pfa.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\css\\site.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\css\\StyleAcceuil.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\css\\StyleAcceuil.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "css/StyleAcceuil.css",
       "AssetKind": "All",
@@ -85,10 +85,27 @@
       "OriginalItemSpec": "wwwroot\\css\\StyleAcceuil.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\css\\StyleEquipe.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
+      "BasePath": "_content/Projet_pfa",
+      "RelativePath": "css/StyleEquipe.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleEquipe.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\favicon.ico",
+      "SourceId": "Projet_pfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -102,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\1.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/1.jpg",
       "AssetKind": "All",
@@ -119,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\2.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/2.jpg",
       "AssetKind": "All",
@@ -136,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\3.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\3.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/3.jpg",
       "AssetKind": "All",
@@ -153,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\cotedivoire.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\cotedivoire.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/cotedivoire.jpg",
       "AssetKind": "All",
@@ -170,10 +187,61 @@
       "OriginalItemSpec": "wwwroot\\images\\cotedivoire.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\Journal1.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\DrapeauCongo.jpeg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
+      "BasePath": "_content/Projet_pfa",
+      "RelativePath": "images/DrapeauCongo.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DrapeauCongo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\DrapeauMaroc.jpeg",
+      "SourceId": "Projet_pfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
+      "BasePath": "_content/Projet_pfa",
+      "RelativePath": "images/DrapeauMaroc.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DrapeauMaroc.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\DrapeauZambia.jpeg",
+      "SourceId": "Projet_pfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
+      "BasePath": "_content/Projet_pfa",
+      "RelativePath": "images/DrapeauZambia.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\DrapeauZambia.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\Journal1.jpg",
+      "SourceId": "Projet_pfa",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/Journal1.jpg",
       "AssetKind": "All",
@@ -187,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Journal1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\Journal2.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\Journal2.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/Journal2.jpg",
       "AssetKind": "All",
@@ -204,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Journal2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\Login.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\Login.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/Login.jpg",
       "AssetKind": "All",
@@ -221,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Login.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\images\\Maroc.jpg",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\images\\Maroc.jpg",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "images/Maroc.jpg",
       "AssetKind": "All",
@@ -238,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Maroc.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\js\\JsAcceuil.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\js\\JsAcceuil.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "js/JsAcceuil.js",
       "AssetKind": "All",
@@ -255,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\js\\JsAcceuil.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\js\\site.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -272,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -289,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -306,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -323,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -340,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -357,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -374,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -391,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -408,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -425,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -442,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -459,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -476,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -493,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -510,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -527,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -544,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -561,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -578,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -595,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -612,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -629,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -646,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -680,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -697,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -714,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -731,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -748,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -765,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -782,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -799,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -816,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -833,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -850,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -867,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -884,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -901,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -918,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -935,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -952,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -969,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -986,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1003,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1020,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1037,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1054,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1071,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1088,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1105,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1122,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1139,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1156,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1173,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1190,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1207,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1224,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1241,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\logos\\CAN25_LogoHabib.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\logos\\CAN25_LogoHabib.png",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "logos/CAN25_LogoHabib.png",
       "AssetKind": "All",
@@ -1258,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\logos\\CAN25_LogoHabib.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\logos\\Coupe_dAfrique.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\logos\\Coupe_dAfrique.png",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "logos/Coupe_dAfrique.png",
       "AssetKind": "All",
@@ -1275,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\logos\\Coupe_dAfrique.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\logos\\Logo-MAAKOUL.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\logos\\Logo-MAAKOUL.png",
       "SourceId": "Projet_pfa",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\PFA\\Projet_pfa\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Equipe\\PFA\\Projet_pfa\\wwwroot\\",
       "BasePath": "_content/Projet_pfa",
       "RelativePath": "logos/Logo-MAAKOUL.png",
       "AssetKind": "All",

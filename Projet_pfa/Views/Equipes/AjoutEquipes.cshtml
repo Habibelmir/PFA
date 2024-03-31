@@ -1,0 +1,33 @@
+﻿@model List<Equipe>
+
+@{
+    ViewData["Title"] = "Equipes";
+    Layout = "_Layout";
+}
+<head>
+    <link rel="stylesheet" href="~/css/StyleEquipe.css" />
+</head>
+<div>
+    <p>Nombre d'équipes dans le modèle : @Model.Count</p>
+</div>
+<div class="filtre">
+    <table>
+        <tr>
+            <th>Drapeau</th>
+            <th>Equipe</th>
+        </tr>
+        @foreach (Equipe e in Model)
+        {
+            <tr>
+                <td><img src="C:\Users\HP\Documents\imane\4éme année\Semestre2\ASP.Net\@e.Drapeau" alt="" class="float-left img" width="204" height="136"></td>
+                <td><a href="#">@e.Nom</a></td>
+            </tr>
+        }
+    </table>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
