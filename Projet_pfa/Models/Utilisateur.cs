@@ -1,15 +1,22 @@
-﻿using System.Data;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.Data;
 using System.Net.Sockets;
 
 namespace Projet_pfa.Models
 {
+    public enum Role
+    {
+        user,
+        moderateur,
+    }
+    [Table("Utilisateur")]
     public class Utilisateur
     {
-        public int id {  get; set; }
-        public string nom { get; set; }
-        public string prenom { get; set; }
-        public string login {  get; set; }
-        public string password { get; set; }
+        public int Id {  get; set; }
+        public string Nom { get; set; }
+        public string Prenom { get; set; }
+        public string Login {  get; set; }
+        public string Password { get; set; }
         public Role Role { get; set; }
 
         public IList<Ticket> Tickets { get; set; }
