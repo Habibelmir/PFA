@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -152,6 +152,7 @@
         }
 
     .image {
+        
         display: flex;
         justify-content: center;
         align-items: center;
@@ -170,11 +171,11 @@
     height: 85vh;
 }
 body {
-    background-color: #024502;
+    background-color: white!important;
     width:100%;
 }
 .nav-link {
-    color: #FFD700 !important;
+    color: black !important;
 }
 .nav-link:hover {
     color: #FFA500 !important;
@@ -206,6 +207,7 @@ i, .dropdown-toggle {
 .actions > button:hover {
     border: 1px solid #FFD700;
     color: #FFA500;
+    
 }
 
 .carousel-image {

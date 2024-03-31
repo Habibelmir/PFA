@@ -1,0 +1,43 @@
+﻿@model Projet_pfa.ViewModel.TicketInformation
+
+@{
+    ViewData["Title"] = "ticketInfo";
+    Layout = "_Layout";
+}
+@* @section Style{
+    <link rel="stylesheet" href="~/css/StyleMatchInfo.css" />
+} *@
+
+
+@* juste pour tester si la recuperation est bien faite *@
+@if (ViewBag.nomcomplets != null)
+{
+    for (int i = 0; i < ViewBag.nomcompletsCount; i++)
+   {
+        <div>@ViewBag.nomcomplets[i]</div>
+   }
+}
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ticketInfo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            @for (int i = 0; i < ViewBag.nbrtickets; i++)
+            {
+                <div class="form-group">
+                    
+                    <label asp-for="NomComplets[i]" class="control-label">Nom complet pour le ticket Num : @i</label>
+                    <input asp-for="NomComplets[i]" class="form-control" />
+                    <span asp-validation-for="NomComplets[i]" class="text-danger"></span>
+                </div>
+            }
+            <div class="form-group">
+                <input type="submit" value="Suivant" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

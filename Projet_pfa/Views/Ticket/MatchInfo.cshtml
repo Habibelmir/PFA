@@ -1,0 +1,64 @@
+﻿@model Projet_pfa.ViewModel.MatchInformations
+@using Projet_pfa.ViewModel
+@{
+    Layout = "_Layout";
+}
+@section Style{
+    <link rel="stylesheet" href="~/css/StyleMatchInfo.css" />
+}
+
+
+
+<div class="row">
+    <div class="col-md-4 ">
+        <form asp-action="MatchInfo">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="container-box">
+                <h1>Match choisi :</h1>
+                <div class="match-info">
+                    <div class="match-equipe">
+                        <span>Maroc</span>
+                        <span>Vs</span>
+                        <span>France</span>
+                    </div>
+                    <div class="match-time">
+                        <span>13:00</span>
+                        <span>Oujda</span>
+                    </div>
+                </div>
+                <div class="siege-info">
+                    <div class="form-group">
+                        <label asp-for="CategorieSiege" class="control-label"></label>
+                        <select class="form-select" name="CategorieSiege" asp-for="CategorieSiege">
+                            <option value="@Categorie.CategorieA">@Categorie.CategorieA</option>
+                            <option value="@Categorie.CategorieB">@Categorie.CategorieB</option>
+                            <option value="@Categorie.CategorieC">@Categorie.CategorieC</option>
+                        </select>
+                        <span asp-validation-for="CategorieSiege" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="NbrTicket" class="control-label"></label>
+                        <select asp-for="NbrTicket" class="form-select" name="NbrTicket">
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                        </select>
+                        <span asp-validation-for="NbrTicket" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Suivant" class="btn btn-primary" />
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

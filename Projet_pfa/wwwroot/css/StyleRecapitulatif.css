@@ -1,0 +1,21 @@
+﻿body {
+}
+.recap {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:center;
+
+}
+.recap > div{
+    color:white;
+   
+}
+.info1,.info2{
+    width:100%;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
