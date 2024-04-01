@@ -13,6 +13,11 @@ builder.Services.AddDbContext<MonContext>(opt =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddDbContext<MyContext>(opt =>
+{
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
