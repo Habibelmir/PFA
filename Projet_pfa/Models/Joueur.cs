@@ -9,8 +9,10 @@ namespace Projet_pfa.Models
         public string Nom { get; set; }
         public string Prenom { get; set; }
         public int NumeroMaillot { get; set; }
-        public int Age { get; set; }
-        public Equipe Equipe { get; set; }
+        public int DateNaissance { get; set; }
+        public string Photo {  get; set; }
+        public string Role { get; set; }
+        public Equipe Equipe { get; set; } 
         public int EquipeId { get; set; }
     }
 }

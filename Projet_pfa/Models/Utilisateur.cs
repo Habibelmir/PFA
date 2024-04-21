@@ -7,7 +7,7 @@ namespace Projet_pfa.Models
     public enum Role
     {
         user,
-        moderateur,
+        admin,
     }
     [Table("Utilisateur")]
     public class Utilisateur
@@ -19,7 +19,13 @@ namespace Projet_pfa.Models
         public string Password { get; set; }
         public Role Role { get; set; }
 
+        public Nationalite Nationalite { get; set; }
+        public int NationaliteId { get; set; }
+
+        public IList<Publication> publications { get; set; }
         public IList<Ticket> Tickets { get; set; }
+        public IList<Commentaire>Commentaires { get; set;}
+        public IList<Like>Likes { get; set; }
 
     }
 }
