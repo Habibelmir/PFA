@@ -22,13 +22,18 @@ namespace Projet_pfa.Models
         public int nbrsiegeReserveCat1 {  get; set; }
         public int nbrsiegeReserveCat2 { get; set; }
         public int nbrsiegeReserveCat3 { get; set; }
-
       
         public IList<Ticket> Tickets { get; set; }
 
+        public Equipe Equipe1  { get; set; }
+        [ForeignKey("Equipe")]
+        public int Equipe1Id { get; set; }
+        public Equipe Equipe2 { get; set; }
+        [ForeignKey("Equipe")]
+        public int Equipe2Id { get; set; }
 
-        //public Stade stade { get; set; }
-        //public int StadeId { get; set; }
+        public Stade Stade { get; set; }
+        public int StadeId { get; set; }
     }
 }
 
