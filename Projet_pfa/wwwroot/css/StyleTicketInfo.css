@@ -1,0 +1,57 @@
+﻿@media (min-width: 833px) and (max-width: 2560px) {
+    .row {
+        border: solid 2px black;
+        width: 50%;
+        height: 55vh;
+        margin: auto;
+        margin-top: 100px;
+        overflow: clip;
+    }
+
+    .col-md-4 {
+        width: 100%;
+    }
+
+        .col-md-4 > form {
+            height: 100%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+        }
+
+    .form-group {
+        
+        color: black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        align-items:center;
+        gap: 100px;
+    }
+    .form-group label:first-child {
+       width:100%;
+       display:flex;
+       flex-direction:row;
+       justify-content:space-evenly;
+       align-items:center;
+    }
+
+    .Nextinput {
+        display: flex;
+        justify-content: center;
+    }
+
+    .form-group > label span {
+        text-align: center;
+        color: #A52A2A;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    .title{
+        padding-top:50px;
+        text-align:center;
+    }
+}
